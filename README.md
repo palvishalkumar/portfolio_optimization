@@ -1,4 +1,4 @@
-📊 Portfolio Optimization Using Historical Financial Data
+**📊 Portfolio Optimization Using Historical Financial Data**
 This project is a full-stack application that helps users optimize their investment portfolios based on historical financial data. It leverages data science techniques to help investors make better-informed decisions by maximizing returns while minimizing risk.
 
 🔍 About the Project
